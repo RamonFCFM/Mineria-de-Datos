@@ -1,0 +1,5 @@
+movie_title,num_critic_for_reviews,duration,DIRECTOR_facebook_likes,actor_3_facebook_likes,ACTOR_1_facebook_likes,gross,num_voted_users,Cast_Total_facebook_likes,facenumber_in_poster,num_user_for_reviews,budget,title_year,ACTOR_2_facebook_likes,imdb_score,title_year.1
+Spectre?ÿ,602,148.0,20,161,11000,200074175,275868.0,11700.0,1.0,994,245000000,2015,393.0,6.8,2015.0
+John Carter?ÿ,462,132.0,"""475""",530,640,73058679,212204.0,1873.0,1.0,738,263700000,2012,632.0,6.6,
+Tangled?ÿ,324,,15,284,799,200807262,294810.0,,1.0,387,260000000,2010,553.0,7.8,
+Quantum of Solace?ÿ,403,106.0,395,393,451,168368427,330784.0,2023.0,1.0,1243,200000000,2008,412.0,6.7,2008.0
